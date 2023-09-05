@@ -1,4 +1,4 @@
-# FCC-Certification-Technical-Documentation
+# FCC Certification - Technical Documentation
 
 A certification project from the FCC where I needed to make a technical documentation.
 
